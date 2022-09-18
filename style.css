@@ -1,0 +1,24 @@
+.navbar-nav a:hover {
+    color: #ffbe30 !important;
+}
+
+#hero-btn {
+    max-width: 13rem;
+}
+
+#hero {
+    margin-top: 5rem;
+}
+
+footer a:hover {
+    color: black !important;
+    font-weight: 500;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+#logo:hover {
+    color: #ffbe30 !important;
+}
