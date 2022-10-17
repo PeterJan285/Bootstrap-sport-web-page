@@ -5,7 +5,16 @@
 
 ## Welcome! 👋
 
-Thanks for checking out my practice project.
+- Another project in which I practiced Bootstrap and my designing skills. It is supposed to be generic gym page, promoting training and health.
 
-- This is one among many of my learning projects, it is responsive.
+### Languages and features 👨‍💻 
+
+- Bootstrap: grid system, components, cards, footer.
+- Design: layout, visual appeal, combining colors, asimetrical section transitions.
+
+Thanks for checking out my projects.
+
+
+   
+    
 
